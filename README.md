@@ -3,7 +3,6 @@
 ```
 ansible-playbook -i inventory/hosts.ini file1.yaml
 ```
-
 ## with roles
 
 ```
